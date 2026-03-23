@@ -1,3 +1,5 @@
 ls -> lista arquivos e pastas
 cd -> gerencia pastas
 pwd -> mostra o caminho da pasta
+cat -> exibe o conteúdo do arquivo 
+rm -> remove arquivo ou diretório
