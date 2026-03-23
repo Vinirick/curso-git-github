@@ -1,0 +1,3 @@
+ls -> lista arquivos e pastas
+cd -> gerencia pastas
+pwd -> mostra o caminho da pasta
